@@ -1,0 +1,5 @@
+sdk_version: 3.25.0
+app_file: app.py
+models:
+  - distilgpt2
+  - runwayml/stable-diffusion-v1-5
